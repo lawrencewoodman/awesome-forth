@@ -22,6 +22,7 @@ I recommend trying GForth which is a cross platform forth compiler. It seemed to
 
 + [retroforth](http://retroforth.org/) modern forth with good infrastructure and docs
 + [SP-Forth](https://github.com/rufig/spf) crossplatform forth with [huge shared code library from different developers](https://github.com/rufig/spf/tree/master/devel) included
++ [muforth](https://muforth.nimblemachines.com/) "Small, simple, fast, indirect-threaded Forth intended for use as a cross-compiler"
 
 ### Books
 
